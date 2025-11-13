@@ -14,6 +14,7 @@ Gold Layer: Houses business-ready data modeled into a star schema required for r
 
 
 #📖 Project Overview
+
 This project involves:
 
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
@@ -33,8 +34,11 @@ Data Analytics
 
 
 🚀 Project Requirements
+
 Building the Data Warehouse (Data Engineering)
+
 Objective
+
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 Specifications
