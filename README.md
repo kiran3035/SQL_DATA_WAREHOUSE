@@ -3,6 +3,7 @@ Welcome to the Data Warehouse and Analytics Project repository! 🚀 This projec
 
 
 #🏗️ Data Architecture
+
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
 <img width="1088" height="560" alt="image" src="https://github.com/user-attachments/assets/173bb10e-5154-49e5-b86e-2c188eb362db" />
@@ -42,6 +43,7 @@ Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 Specifications
+
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
 Data Quality: Cleanse and resolve data quality issues prior to analysis.
 Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
@@ -51,7 +53,9 @@ Documentation: Provide clear documentation of the data model to support both bus
 
 
 BI: Analytics & Reporting (Data Analysis)
+
 Objective
+
 Develop SQL-based analytics to deliver detailed insights into:
 
 Customer Behavior
@@ -70,6 +74,7 @@ For more details, refer to docs/requirements.md.
 
 
 🌟 About Me
+
 Hi there! I'm Kiran, an IT professional and passionate AI Developer on a mission to share knowledge and make working with data enjoyable and engaging!
 
 Let's stay in touch! Feel free to connect with me on Kirankumarp.mpl@gmail.com
