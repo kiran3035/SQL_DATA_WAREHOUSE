@@ -63,13 +63,6 @@ Product Performance
 Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-For more details, refer to docs/requirements.md.
-
-
-
-📂 Repository Structure
-
-<img width="982" height="590" alt="image" src="https://github.com/user-attachments/assets/ebce8186-bf53-4a2a-ae73-1176b52e1fe4" />
 
 
 
